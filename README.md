@@ -21,6 +21,7 @@ limitations under the License.
 [![Travis Build Status](https://travis-ci.org/apache/calcite.svg?branch=master)](https://travis-ci.org/apache/calcite)
 [![CI Status](https://github.com/apache/calcite/workflows/CI/badge.svg?branch=master)](https://github.com/apache/calcite/actions?query=branch%3Amaster)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/apache/calcite?svg=true&branch=master)](https://ci.appveyor.com/project/ApacheSoftwareFoundation/calcite)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fv2orgtest%2Fcalcite.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fv2orgtest%2Fcalcite?ref=badge_shield)
 
 # Apache Calcite
 
@@ -37,3 +38,7 @@ Elasticsearch, MongoDB, Kafka, and others, with minimal
 configuration.
 
 For more details, see the [home page](http://calcite.apache.org).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fv2orgtest%2Fcalcite.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fv2orgtest%2Fcalcite?ref=badge_large)
